@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 prueba para medac - Antonio está triste
 PATATA
+buenos dias
 =======
 prueba para medac
 PATATA DE JAMON
