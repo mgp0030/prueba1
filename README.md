@@ -5,4 +5,5 @@ PATATA
 =======
 prueba para medac
 PATATA DE JAMON
+ok
 >>>>>>> 0da14ef35af72786fea96c64b6905f8ac3abf91b
